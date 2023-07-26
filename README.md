@@ -14,4 +14,4 @@
 
 [<img align="left" alt="LDWilliams | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/LDWilliams
+[linkedin]: www.linkedin.com/in/l-d-williams-44650720
